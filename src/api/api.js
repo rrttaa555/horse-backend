@@ -1,4 +1,4 @@
-const API_BASE = 'https://horse-backend.onrender.com/api';
+const API_BASE = 'https://horse-backend-hnbs.onrender.com/api';
 
 const headers = (token) => ({
   'Content-Type': 'application/json',
